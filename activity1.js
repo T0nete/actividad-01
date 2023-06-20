@@ -5,6 +5,13 @@ class MyClassA {
     }
 }
 
+class MyClassB {
+    constructor() {
+        this.foo = ''
+        this.bar = ''
+    }
+}
+
 class MyClassC {
     constructor() {
         this.foo = ''
