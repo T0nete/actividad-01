@@ -4,3 +4,10 @@ class MyClassA {
         this.bar = ''
     }
 }
+
+class MyClassB {
+    constructor() {
+        this.foo = ''
+        this.bar = ''
+    }
+}
